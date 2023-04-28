@@ -1,0 +1,15 @@
+# Created at 2023-04-04T12:27:00.084
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2023-04-04T12:27:00.085
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# There is insufficient memory for the Java Runtime Environment to continue.'.
+
+# Created at 2023-04-04T12:27:00.086
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Native memory allocation (mmap) failed to map 264241152 bytes for G1 virtual space'.
+
+# Created at 2023-04-04T12:27:00.087
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+
+# Created at 2023-04-04T12:27:00.101
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# C:\Users\Akash Shelke\Desktop\Udemy\opencart\hs_err_pid18600.log'.
+
